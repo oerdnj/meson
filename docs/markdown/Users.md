@@ -34,12 +34,14 @@ topic](https://github.com/topics/meson).
 
 ## Other Notable projects
 
+ - [BIND 9](https://www.isc.org/bind/), bersatile, classic, complete name server software
  - [FreeType](https://freetype.org/), widely used open source font rendering engine
  - [GIMP](https://gitlab.gnome.org/GNOME/gimp), an image manipulation program (master branch)
  - [GStreamer](https://gitlab.freedesktop.org/gstreamer/gstreamer), multimedia framework
  - [Git](https://git-scm.com/), ["the information manager from hell"](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
  - [HarfBuzz](https://github.com/harfbuzz/harfbuzz), a text shaping engine
  - [HexChat](https://github.com/hexchat/hexchat), a cross-platform IRC client in C
+ - [Kea](https://www.isc.org/kea/), modern, open source DHCPv4 & DHCPv6 server
  - [LXC](https://github.com/lxc/lxc), Linux container runtime
  - [Linux PAM](https://github.com/linux-pam/linux-pam), The Pluggable Authentication Modules project for Linux
  - [Mesa](https://mesa3d.org/), an open source graphics driver project
